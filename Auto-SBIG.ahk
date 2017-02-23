@@ -13,8 +13,6 @@ Run, Ccdops.exe, C:\Program Files (x86)\SBIG\CCDOps5
 
 sleep 10000
 
-;Send ^g
-
 loop, 6
 {
 Send ^g
